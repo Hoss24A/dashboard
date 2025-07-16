@@ -1,8 +1,8 @@
 // Sample food price data (inspired by Statistics Canada)
 const foodData = {
     en: {
-        title: "Canadian Food Price Trends",
-        intro: "Explore price trends for common food items in Canada from 2018 to 2023. Compare prices across different products and view historical trends.",
+        title: "Food Price Trends",
+        intro: "Explore price trends for common food items from 2018 to 2023. Compare prices across different products and view historical trends.",
         timeRangeLabel: "Select Time Range:",
         foodItemsLabel: "Select Food Items:",
         currencyLabel: "Select Currency:",
@@ -16,8 +16,8 @@ const foodData = {
         chart2Description: "This line chart shows how prices have changed over the selected time period."
     },
     fr: {
-        title: "Tendances des prix alimentaires au Canada",
-        intro: "Explorez les tendances de prix pour les aliments courants au Canada de 2018 à 2023. Comparez les prix entre différents produits et visualisez les tendances historiques.",
+        title: "Tendances des prix alimentaires",
+        intro: "Explorez les tendances de prix pour les aliments courants de 2018 à 2023. Comparez les prix entre différents produits et visualisez les tendances historiques.",
         timeRangeLabel: "Sélectionnez la période:",
         foodItemsLabel: "Sélectionnez les aliments:",
         currencyLabel: "Sélectionnez la devise:",
